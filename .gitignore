@@ -4,8 +4,6 @@
 /public/storage
 /storage/*.key
 /vendor
-/yody.vne
-/yodyshop
 .env
 .env.backup
 .env.production
